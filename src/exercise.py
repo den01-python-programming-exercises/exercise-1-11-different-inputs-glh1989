@@ -12,7 +12,7 @@ def main():
     print("You gave the string " + string)
     print("You gave the integer " + str(intvalue))
     print("You gave the float " + str(floatvalue))
-    print("You gave the boolean " + str(booleanvalue))
-    
+    print("You gave the Boolean " + str(booleanvalue))
+
 if __name__ == '__main__':
     main()
